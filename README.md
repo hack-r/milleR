@@ -1,6 +1,6 @@
 # milleR
 
-A few functions I packaged.
+A few functions I packaged. This is the public version of a private library.
 
 	dsLibs() - common Data Science libraries
 
