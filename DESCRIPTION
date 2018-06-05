@@ -1,0 +1,10 @@
+Package: milleR
+Title: Miscellaneous Convenience Functions
+Version: 0.0.0.9000
+Authors@R: person("Jason", "Miller", email = "Jason.Miller@laureate.net", role = c("aut", "cre"))
+Description: Various convenience functions.
+Depends: R (>= 3.5.0)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
