@@ -1,4 +1,4 @@
-#' Look up student ID's using IP's (via SalesForce)
+#' Bi-directional setdiff
 #'
 #' @param x data.frame or similiar
 #' @param y data.frame or similiar
